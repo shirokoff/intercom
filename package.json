@@ -1,0 +1,19 @@
+{
+  "name": "intercom-task",
+  "scripts": {
+    "test": "./node_modules/.bin/jest",
+    "run": "node index.js"
+  },
+  "author": "Ivan Shirokov <shirokoff@ya.ru>",
+  "dependencies": {
+    "split": "^1.0.1"
+  },
+  "devDependencies": {
+    "jest": "21.2.1"
+  },
+  "engine": {
+    "node": ">=8"
+  },
+  "private": true,
+  "jest": {}
+}
